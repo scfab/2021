@@ -1,85 +1,119 @@
 day1:
-- end: 9:10 AM
-  start: 9:00 AM
-  talks: []
-  title: 'Opening Remarks'
-- end: 10:15 AM
-  start: 9:10 AM
-  talks:
-  - authors:
-    - Alysson Bessani (University of Lisbon, Portugal)
-    title: 'Keynote 1: From Byzantine Replication to Blockchains: Consensus is only the Beginning'
-- end: 10:45 AM
-  start: 10:15 AM
-  talks: []
-  title: "Break"
-- end: 12:00 PM
-  start: 10:45 AM
-  talks:
-  - authors:
-    - Muhammad El-Hindi (TU Darmstadt)
-    - Carsten Binnig (TU Darmstadt)
-    - Simon Karrer (TU Darmstadt)
-    - Gloria Doci (TU Darmstadt)
-    title: 'TrustDBle: Towards Trustable Shared Databases'
-  - authors:
-    - Suyash Gupta (University of California Davis)
-    - Sajjad Rahnama (University of California Davis)
-    - Jelle Hellings (University of California Davis)
-    - Mohammad Sadoghi (University of California, Davis)
-    title: 'ResilientDB: Global Scale Resilient Blockchain Fabric'
-  - authors:
-    - Xiaoxue Zhang (University of California, Santa Cruz)
-    - Shouqian Shi (University of California, Santa Cruz)
-    - Chen Qian (University of California, Santa Cruz)
-    title: 'Scalable Decentralized Routing for Blockchain Payment Networks'
-  - authors:
-    - Ethan Cecchetti (Cornell University)
-    - Siqiu Yao (Cornell University)
-    - Haobin Ni (Cornell University)
-    - Andrew Myers (Cornell University)
-    title: 'Securing Smart Contracts with Information Flow'
-  title: "Session I"
-  chair: "Kartik Nayak (Duke University)"
-- end: 1:00 PM
-  start: 12:00 PM
-  talks: []
-  title: Lunch Break
-- end: 1:30 PM
-  start: 1:00 PM
-  talks: []
-  title: Poster Session
-- end: 2:30 PM
-  start: 1:30 PM
-  talks:
-  - authors:
-    - Dahlia Malkhi (Research Lead at Calibra)
-    title: 'Keynote 2: The Journey to Libra Blockchain Core and Beyond'
-- end: 3:00 PM
-  start: 2:30 PM
-  talks: []
-  title: "Break"
-- end: 4:30 PM
-  start: 3:00 PM
-  title: 'Session II'
-  chair: "Shrutarshi Basu (Harvard University)"
-  talks:
-  - authors:
-    - Hsien-Tang Kao (Gauntlet)
-    - Tarun Chitra (Gauntlet)
-    - Rei Chiang (Gauntlet)
-    - John Morrow (Gauntlet)
-    title: 'An analysis of the market risk to participants in the Compound protocol'
-  - authors:
-    - Nathaniel Fowler (California Polytechnic State University, San Luis Obispo)
-    - Eric Cuellar (California Polytechnic State University, San Luis Obispo)
-    - Zachary Peterson (Cal Poly, San Luis Obispo)
-    title: 'On Stablecoins: Stability Mechanisms and Use Cases for Real People'
-  - authors:
-    - Jason Vranek (UCSC)
-    - Yilin Li (UCSC)
-    title: 'Decentralized Markets Evaluating Uniform and Non-Uniform prices'
-- end: 4:35 PM
-  start: 4:30 PM
-  talks: []
-  title: "Wrap"
+  - end: 9:15 AM
+    start: 9:00 AM
+    talks: []
+    title: "Opening Remarks"
+  - end: 10:15 AM
+    start: 9:15 AM
+    talks:
+      - authors:
+          - Rachid Guerraoui (EPFL)
+        title: "Keynote 1: The road to a Universal Internet Machine (Demystifying Blockchain Protocols)"
+  - end: 10:35 PM
+    start: 10:15 AM
+    talks:
+      - authors:
+          - Lăcrămioara Astefănoaei
+          - Pierre Chambart
+          - Antonella Del Pozzo
+          - Thibault Rieutord
+          - Sara Tucci
+          - Eugen Zalinescu
+        title: "Tenderbake - A Solution to Dynamic Repeated Consensus for Blockchains "
+    title: "Research Paper"
+  - end: 10:45 AM
+    start: 10:35 AM
+    talks: []
+    title: "Break"
+  - end: 11:05 PM
+    start: 10:45 AM
+    talks:
+      - authors:
+          - Vicente Cholvi Juan
+          - Antonio Fernandez Anta
+          - Chryssis Georgiou
+          - Nicolas Nicolaou
+          - Michel Raynal
+          - Antonio Russo
+        title: "Byzantine-tolerant Distributed Grow-only Sets: Specification and Applications"
+    title: "Research Paper"
+
+  - end: 11:25 PM
+    start: 11:05 AM
+    talks:
+      - authors:
+          - Shreyas Bhat
+          - Ayten Kahya
+          - Rohit Kumar
+          - Bhaskar Krishnamachari
+        title: "DAISIM: A Computational Simulator for the MakerDAO Stablecoin"
+    title: "Research Paper"
+
+  - end: 11:40 PM
+    start: 11:25 AM
+    talks:
+      - authors:
+          - Lucas Massoni Sguerra
+          - Emilio Jesús Gallego Arias
+          - Pierre Jouvelot
+          - Gérard Memmi
+          - Fabien Coelho
+        title: "Blockchain Performance Benchmarking: a VCG Auction Smart Contract Use Case for Ethereum and Tezos"
+    title: "Short Paper"
+
+  - end: 11:50 PM
+    start: 11:40 AM
+    talks:
+      - authors:
+          - Ayten Kahya
+          - Bhaskar Krishnamachari
+        title: "Eco-Trojan: A Blockchain-based Platform for Incentivizing Sustainability-Oriented Behaviors on a University Campus"
+    title: "Poster"
+
+  - end: 1:00 PM
+    start: 11:50 PM
+    talks: []
+    title: Lunch Break
+
+  - end: 14:00 AM
+    start: 13:00 AM
+    talks:
+      - authors:
+          - Elaine Shi (CMU, Cornell)
+        title: "Keynote 2: TBD"
+
+  - end: 14:20 PM
+    start: 14:00 AM
+    talks:
+      - authors:
+          - Aritra Mitra
+          - Christian Gorenflo
+          - Lukasz Golab
+          - Srinivasan Keshav
+        title: "TimeFabric: Trusted Time for Hyperledger Fabric"
+    title: "Research Paper"
+
+  - end: 14:40 PM
+    start: 14:20 AM
+    talks:
+      - authors:
+          - Bhaskar Krishnamachari
+          - Qi Feng
+          - Eugenio Grippo
+        title: "Dynamic Curves for Decentralized Autonomous Cryptocurrency Exchanges"
+    title: "Research Paper"
+
+  - end: 15:00 PM
+    start: 14:40 PM
+    talks: []
+    title: Break
+
+  - end: 16:00 PM
+    start: 15:00 PM
+    talks: []
+    title: Student session
+
+  - end: 16:10 PM
+    start: 16:00 PM
+    talks: []
+    title: Closing remarks
