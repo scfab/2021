@@ -84,6 +84,12 @@
                             {% endif %}
                             {% assign authors = talk.authors | join: ', ' %}
                             <p class="course-meta" style="line-height:18px;">{{authors}}
+                                {% if talk.bio %}
+                                <br><br>
+                                <b>Biography:</b>
+                                <span style="font-weight: 100;color: black;">{{ talk.bio }}</span>
+                                {% endif %}
+                                
                                 <br>
                                 <font style="color:SteelBlue;">{{ talk.duration }}</font>
                                 {% if talk.urls.video%}
@@ -104,6 +110,11 @@
                             </p>
                         </li>
                         {% endfor %}
+                        {% if session.abstract %}
+                        <li><b>Abstract:</b>
+                            <p style="font-weight: 100;color: black;">{{ session.abstract }}</p>
+                        </li>
+                        {% endif %}
                     </ul>
                     {% endif %}
                     {% if session.panel %}
