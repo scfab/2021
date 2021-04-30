@@ -113,7 +113,7 @@ day1:
   - end: 16:00 PM
     start: 15:00 PM
     talks:
-      - title: "15:00 - 15:05 : Intro to BAF by Cameron Dennis"
+      - title: "15:00 - 15:05 : Intro to BAF"
         authors:
             - "Cameron Dennis, President and Founder of BAF"
 
