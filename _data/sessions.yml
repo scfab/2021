@@ -116,27 +116,34 @@ day1:
       - title: "15:00 - 15:05 : Intro to BAF by Cameron Dennis"
         authors:
             - "Cameron Dennis, President and Founder of BAF"
-      - title: "15:5 - 15:15 : BAF Wallet by Sebastien La Duca"
+
+      - title: "15:05 - 15:15 : BAF Wallet"
         authors:
-            - "Nikita Buzov, Founder of Solace & BAF Board Member "
-      - title: "15:15 - 15:25 : Alchedemia, a Decentralized Learning Management System by Shahmeer Chaudhry"
+            - "Sebastien La Suca and Lev Stambler, Blockchain at CMU"
+
+      - title: "15:15 - 15:25 : Alchedemia, a Decentralized Learning Management System"
         authors:
-            - "Shahmeer Chaudhry, Co-Founder of Alchedemia & BAF Board Member"
-      - title: "15:25 - 15:30 : Ethereum Teacher Training Program by Jacob Lindahl"
+            - "Piergiacomo Palmisani, Grants and Research at BAF"
+
+      - title: "15:25 - 15:30 : Ethereum Teacher Training Program"
         authors:
-            - "Sebastien La Duca, President of Blockchain at CMU & BAF Board Member "
-      - title: "15:30 - 15:40 : Token Delegation and DeFi Governance by David Zheng"
+            - "Jacob Lindahl, Blockchain at University of Minnesota - Twin Cities"
+
+      - title: "15:30 - 15:40 : Token Delegation and DeFi Governance"
         authors:
-            - "Jacob Lindahl, President of Blockchain at University of Minnesota- Twin Cities "
-      - title: "15:35 - 15:45 : Solace, a Decentralized Insurance Protocol by Nikita Buzov"
+            - "David Zheng, Blockchain at UCLA"
+            
+      - title: "15:35 - 15:45 : Solace, a Decentralized Insurance Protocol"
         authors:
-            - "Piergiacomo Palmisani, BAF’s Vice President & Algorand Researcher "
-      - title: "15:45 - 15:55 : BoLT, Building on Local Trust by Navo Emmanuel "
+            - "Nikita Buzov, Blockchain at UCSB"
+
+      - title: "15:45 - 15:55 : BoLT, Building on Local Trust"
         authors:
-            - "David Zheng, DeFi Politician at Blockchain at UCLA"
-      - title: "15:55 - 16:00 : BAF’s Next Steps by Piergiacomo Palmisani"
+            - "Navo Emmanuel and Soham Kalva, Blockchain at CMU"
+
+      - title: "15:55 - 16:00 : BAF’s Next Steps"
         authors:
-            - "Navo Emmanuel, Student Researcher at Carnegie Mellon University"
+            - "Cameron Dennis, President and Founder of BAF"
 
 
     title: Student session
