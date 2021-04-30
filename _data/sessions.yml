@@ -11,7 +11,7 @@ day1:
         bio: Rachid Guerraoui has been affiliated with Ecole des Mines of Paris, the Commissariat à l’Energie Atomique of Saclay, Hewlett Packard Laboratories and the Massachusetts Institute of Technology. He has worked in a variety of aspects of distributed computing, including distributed algorithms and distributed programming languages. He is most well known for his work on (e-)Transactions, epidemic information dissemination and indulgent algorithms.
         title: "Keynote 1: The road to a Universal Internet Machine (Demystifying Blockchain Protocols)"
     abstract: This talk will discuss what it would mean to build the abstraction of a widely distributed universal computer. In the process, the talk will revisit blockchain protocols through the lenses of first distributed computing principles and present simpler alternative protocols.
-  - end: 10:35 PM
+  - end: 10:35 AM
     start: 10:15 AM
     talks:
       - authors:
@@ -27,7 +27,7 @@ day1:
     start: 10:35 AM
     talks: []
     title: "Break"
-  - end: 11:05 PM
+  - end: 11:05 AM
     start: 10:45 AM
     talks:
       - authors:
@@ -40,7 +40,7 @@ day1:
         title: "Byzantine-tolerant Distributed Grow-only Sets: Specification and Applications"
     title: "Research Paper"
 
-  - end: 11:25 PM
+  - end: 11:25 AM
     start: 11:05 AM
     talks:
       - authors:
@@ -51,7 +51,7 @@ day1:
         title: "DAISIM: A Computational Simulator for the MakerDAO Stablecoin"
     title: "Research Paper"
 
-  - end: 11:40 PM
+  - end: 11:40 AM
     start: 11:25 AM
     talks:
       - authors:
@@ -63,7 +63,7 @@ day1:
         title: "Blockchain Performance Benchmarking: a VCG Auction Smart Contract Use Case for Ethereum and Tezos"
     title: "Short Paper"
 
-  - end: 11:50 PM
+  - end: 11:50 AM
     start: 11:40 AM
     talks:
       - authors:
@@ -73,19 +73,19 @@ day1:
     title: "Poster"
 
   - end: 1:00 PM
-    start: 11:50 PM
+    start: 11:50 AM
     talks: []
     title: Lunch Break
 
-  - end: 14:00 AM
-    start: 13:00 AM
+  - end: 14:00 PM
+    start: 13:00 PM
     talks:
       - authors:
           - Elaine Shi (CMU, Cornell)
         title: "Keynote 2: Game-Theoretically Secure Protocols Inspired by Blockchains"
 
   - end: 14:20 PM
-    start: 14:00 AM
+    start: 14:00 PM
     talks:
       - authors:
           - Aritra Mitra
@@ -96,7 +96,7 @@ day1:
     title: "Research Paper"
 
   - end: 14:40 PM
-    start: 14:20 AM
+    start: 14:20 PM
     talks:
       - authors:
           - Bhaskar Krishnamachari
