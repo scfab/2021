@@ -82,7 +82,9 @@ day1:
     talks:
       - authors:
           - Elaine Shi (CMU, Cornell)
+        bio: Elaine Shi is an Associate Professor in CMU. Her research focuses on cryptography, algorithms, security, distributed systems, and foundations of blockchains. She is the recipient of a Packard Fellowship, an ONR YIP award, a Sloan Fellowship, the NSA Best Scientific Cybersecurity Award, and numerous other awards. She obtained her Ph.D. from CMU. Before joining CMU, she was an Assistant Professor at UMD and an Associated Professor at Cornell. She was also a Member of the Research Staff at PARC.
         title: "Keynote 2: Game-Theoretically Secure Protocols Inspired by Blockchains"
+    abstract: Suppose that n parties want to run a protocol to jointly toss a coin. It is well-known that when half of the parties can be corrupt, strong fairness is impossible, i.e., the corrupt coalition can always misbehave and bias the outcome. Inspired by blockchain applications, we ask, is it possible to achieve a *game theoretic* notion of fairness under corrupt majority? I will talk about how to formulate game theoretic security, the overall possibility/impossibility of game-theoretically secure coin toss and leader election in the presence of majority coalitions, as well as the round complexity.
 
   - end: 14:20 PM
     start: 14:00 PM
